@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Giorgio by Moroder",
+  "base_artist": "Daft Punk",
+  "createdAt": "2026-01-07T12:37:30.192083Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/01_Giorgio_by_Moroder_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/02_Giorgio_by_Moroder_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder",
+      "artist": "Daft Punk feat. Giorgio Moroder",
+      "has_synced": true,
+      "path": "select/03_Giorgio_by_Moroder_Daft_Punk_feat._Giorgio_Moroder.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/04_Giorgio_by_Moroder_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder (feat. Giorgio Moroder)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/05_Giorgio_by_Moroder_(feat._Giorgio_Moroder)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder",
+      "artist": "Daft Punk feat. Giorgio Moroder",
+      "has_synced": true,
+      "path": "select/06_Giorgio_by_Moroder_Daft_Punk_feat._Giorgio_Moroder.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/07_Giorgio_by_Moroder_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder (ft. Giorgio Moroder)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/08_Giorgio_by_Moroder_(ft._Giorgio_Moroder)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder",
+      "artist": "Daft Punk - Giorgio Moroder",
+      "has_synced": true,
+      "path": "select/09_Giorgio_by_Moroder_Daft_Punk_-_Giorgio_Moroder.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder ft. Giorgio Moroder",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/10_Giorgio_by_Moroder_ft._Giorgio_Moroder_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/11_Giorgio_by_Moroder_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder (Drumless Edition)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/12_Giorgio_by_Moroder_(Drumless_Edition)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/13_Giorgio_by_Moroder_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Giorgio By Moroder",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/14_Giorgio_By_Moroder_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Giorgio by Moroder (Drumless Edition)",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/15_Giorgio_by_Moroder_(Drumless_Edition)_Daft_Punk.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Giorgio by Moroder",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/pl_01_Giorgio_by_Moroder_Daft_Punk.txt"
+    }
+  ]
+}
